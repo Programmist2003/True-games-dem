@@ -1,0 +1,49 @@
+
+div.logo_main{
+    margin-left: 150px;
+    color: rgba(0, 0, 0, 0.185);
+    height: 100px;
+    width: 100px;
+font-size: 30px ;
+font-weight: 800;
+position: absolute;
+margin-top: 100px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+li{
+    display: inline-block;
+    margin-left: 350px;
+    text-align: center;
+    list-style: none;
+margin-top: 124px;
+    font-size: 24px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#seacrh-about{
+    margin-left: 300px;
+    position: absolute;
+    white-space:  nowrap;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}    
+
+::before li{ 
+    color: coral;
+}
+.title-main{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+text-align: center;
+color: black;
+    margin-top: 350px;
+}
+.carousel-inner{
+    width: 20%;
+height: 20%;
+}
+.carousel-item{
+    width: 20%;
+    height: 20%;
+}

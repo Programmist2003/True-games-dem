@@ -1,0 +1,50 @@
+div.logo_main{
+    margin-left: 150px;
+    color: rgba(0, 0, 0, 0.185);
+    height: 100px;
+    width: 100px;
+font-size: 30px ;
+font-weight: 800;
+position: absolute;
+margin-top: 100px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+li{
+    display: inline-block;
+    margin-left: 350px;
+    text-align: center;
+    list-style: none;
+margin-top: 124px;
+    font-size: 24px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#seacrh-about{
+    margin-left: 300px;
+    position: absolute;
+    white-space:  nowrap;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}    
+div.adress{
+    margin-left: 100px;
+    margin-top: 100px;
+font-size: 25px;
+font-weight: 600;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+div.email-adress{
+    margin-left: 100px;
+    margin-top: 10px;
+font-size: 25px;
+font-weight: 600;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div.phone{
+    margin-left: 100px;
+    margin-top: 10px;
+font-size: 25px;
+font-weight: 600;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
